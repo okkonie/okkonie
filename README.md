@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okkonie&radius=50&theme=github-dark&area=false&order=5&custom_title=contributions&hide_border=true" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okkonie&radius=50&theme=github-dark&area=false&order=5&custom_title=contributions&hide_border=true" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
