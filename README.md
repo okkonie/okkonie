@@ -1,5 +1,2 @@
-## 💻 Techs
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-## 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=okkonie&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=okkonie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-stats-eta-ten-56.vercel.app/api?username=okkonie&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br>
+![](https://github-readme-stats-eta-ten-56.vercel.app/api/top-langs/?username=okkonie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
